@@ -1,1 +1,2 @@
-# ISO2_2023_B04_Testing_P2
+# Testing-P2
+Repositorio asociado al testing del problema 2

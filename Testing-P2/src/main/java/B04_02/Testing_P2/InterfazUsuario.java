@@ -1,3 +1,5 @@
+package B04_02.Testing_P2;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

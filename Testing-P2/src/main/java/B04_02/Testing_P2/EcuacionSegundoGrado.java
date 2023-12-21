@@ -1,3 +1,5 @@
+package B04_02.Testing_P2;
+
 public class EcuacionSegundoGrado {
 	public double[] calcularRaices(double a, double b, double c) throws Exception {
 		double discriminante = b * b - 4 * a * c;
